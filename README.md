@@ -4,4 +4,4 @@ It's a program that inserts your todolist into a QR code and lets you adjust the
 
 REQS
 
-use kivy install.bat install all reqiurements properly
+use kivy install.bat install all requirements properly
