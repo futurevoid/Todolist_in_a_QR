@@ -4,4 +4,6 @@ It's a program that inserts your todolist into a QR code and lets you adjust the
 
 REQS
 
+python3 is required
+
 use kivy install.bat install all requirements properly
