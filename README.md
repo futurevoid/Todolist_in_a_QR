@@ -6,4 +6,8 @@ REQS
 
 python3 is required
 
-use kivy install.bat install all requirements properly
+use dependencies_install.bat install all requirements properly
+if you are using windows
+
+use dependencies_install.sh install all requirements properly
+if you are using linux
