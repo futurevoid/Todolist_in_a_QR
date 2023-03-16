@@ -64,7 +64,7 @@ class mygridlayout(GridLayout):
                            box_size=Box_Size,
                            border= Border_Size
                            )
-        qr.add_data(f'i will do today inshallah:\n{QRcode_Content}')
+        }')
 
         img_additional_data = qr.make_image(
             fill_color=foreground,
